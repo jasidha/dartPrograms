@@ -1,0 +1,19 @@
+import 'dart:io';
+class Cone{
+
+
+void Add(r,h){
+c=3.14*r*r;
+v=c*h~/3;
+print(v);
+
+
+}
+
+
+}
+main(){
+Cone x=new Cone(r,h):
+
+
+}
